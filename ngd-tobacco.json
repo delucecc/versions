@@ -1,7 +1,7 @@
 {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "changelog": [
-        "Uploaded Version File",
-        "Moved stuff to editableserver.lua"
+        "Fix version check logic",
+        "Files Replaced: server/server.lua"
     ]
 }
