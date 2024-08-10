@@ -1,0 +1,7 @@
+{
+    "version": "1.5",
+    "changelog": [
+        "Added new version checker",
+        "Fixed people hearing music on playerload"
+    ]
+}
