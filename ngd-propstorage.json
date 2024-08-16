@@ -1,0 +1,7 @@
+{
+    "version": "1.5",
+    "changelog": [
+        "New Version Checker",
+        "Added bridge + more framework/target/inventory support."
+    ]
+}
