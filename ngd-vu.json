@@ -1,0 +1,8 @@
+{
+    "version": "3.13",
+    "changelog": [
+        "Add new version check",
+        "Fixed target error",
+        "Fixed throw money"
+    ]
+}
