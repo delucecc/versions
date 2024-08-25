@@ -1,8 +1,8 @@
 {
-    "version": "3.13",
+    "version": "3.14",
     "changelog": [
-        "Add new version check",
-        "Fixed target error",
-        "Fixed throw money"
+        "Added ability to disable duty toggle",
+        "Added auto inventory image path",
+        "Files changed: fxmanifest.lue, config.lua, client/targets.lua"
     ]
 }
