@@ -1,7 +1,8 @@
 {
-    "version": "1.1",
+    "version": "1.11",
     "changelog": [
-        "New Version Checker",
-        "Fix Config"
+        "Added option to disable duty toggle for ESX users",
+        "Added auto detect for inventory image path",
+        "Files Changed: config/config.lua, fxmanifest.lua, client/menus.lua"
     ]
 }
