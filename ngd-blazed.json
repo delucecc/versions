@@ -1,8 +1,9 @@
 {
-    "version": "1.11",
+    "version": "1.12",
     "changelog": [
-        "Added option to disable duty toggle for ESX users",
-        "Added auto detect for inventory image path",
-        "Files Changed: config/config.lua, fxmanifest.lua, client/menus.lua"
+        "Fix blips",
+        "Fix missing delivery items",
+        "Fix inventory image detection",
+        "Files changed: fxmanifest.lua, client/*.lua, config/config.lua, config/deliveries.lua"
     ]
 }
