@@ -1,7 +1,9 @@
 {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "changelog": [
-        "Fix version check logic",
-        "Files Replaced: server/server.lua"
+        "Added ability to disable toggle duty",
+        "Added auto inventory image detection",
+        "Added more pre-configured notifications",
+        "Files Replaced: config/config.lua, client/targets.lua, fxmanifest.lua"
     ]
 }
