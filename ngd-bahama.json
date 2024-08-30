@@ -1,0 +1,7 @@
+{
+    "version": "3.13",
+    "changelog": [
+        "Added new version checker",
+        "Added toggle duty option"
+    ]
+}

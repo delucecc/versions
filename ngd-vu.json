@@ -1,8 +1,7 @@
 {
-    "version": "3.14",
+    "version": "3.14.1",
     "changelog": [
-        "Added ability to disable duty toggle",
-        "Added auto inventory image path",
-        "Files changed: fxmanifest.lue, config.lua, client/targets.lua"
+        "Fixed auto inventory image detect",
+        "Files changed: fxmanifest.lua"
     ]
 }
