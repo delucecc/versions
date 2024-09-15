@@ -1,9 +1,8 @@
 {
     "version": "1.12",
     "changelog": [
-        "Fix blips",
-        "Fix missing delivery items",
-        "Fix inventory image detection",
-        "Files changed: fxmanifest.lua, client/*.lua, config/config.lua, config/deliveries.lua"
+        "Fix deliveries",
+        "Added ngd-dj support",
+        "Files changed: fxmanifest.lua, client/*.lua, server/*.lua, config/config.lua, config/deliveries.lua"
     ]
 }
