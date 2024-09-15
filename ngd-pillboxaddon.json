@@ -1,6 +1,8 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "changelog": [
-        "Inital Release"
+        "Added serving trays",
+        "Added missing item to readme",
+        "Files Changed: fxmanifest.lua, config/targets.lua, config/props.lua, PLEASEJUSTREADME.md"
     ]
 }
