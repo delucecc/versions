@@ -1,7 +1,8 @@
 {
-    "version": "3.14.1",
+    "version": "3.14.2",
     "changelog": [
-        "Fixed auto inventory image detect",
-        "Files changed: fxmanifest.lua"
+        "Fixed some translates",
+        "Fixed intermittent society errors",
+        "Files changed: fxmanifest.lua, translate.lua, server/editableserver.lua"
     ]
 }
