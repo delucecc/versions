@@ -1,0 +1,7 @@
+{
+    "version": "2.32",
+    "changelog": [
+        "Changed blenders to boxzones",
+        "Fixed config discrepancies"
+    ]
+}
