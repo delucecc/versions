@@ -1,0 +1,8 @@
+{
+    "version": "1.2",
+    "changelog": [
+        "Added new version checker",
+        "Fixed intermittent vehicle delete issues",
+        "Added support for Fivemerr"
+    ]
+}
