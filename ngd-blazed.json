@@ -1,8 +1,11 @@
 {
-    "version": "1.12",
+    "version": "1.2",
     "changelog": [
-        "Fix deliveries",
-        "Added ngd-dj support",
-        "Files changed: fxmanifest.lua, client/*.lua, server/*.lua, config/config.lua, config/deliveries.lua"
+        "Added missig items in deliveries",
+        "Added missing consumable",
+        "Fixed job syntax in readme",
+        "Added the ability to check delivery summary after accepting job",
+        "**BE SURE TO ADD NEW IMAGES IN THE web/menuimages/ FOLDER**",
+        "Files changed: PLEASEJUSTREADME.md, fxmanifest.lua, client/deliveries.lua, config/deliveries.lua, config/config.lua, config/translate.lua"
     ]
 }
