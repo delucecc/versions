@@ -1,11 +1,8 @@
 {
-    "version": "1.2",
+    "version": "1.21",
     "changelog": [
-        "Added missig items in deliveries",
-        "Added missing consumable",
-        "Fixed job syntax in readme",
-        "Added the ability to check delivery summary after accepting job",
-        "**BE SURE TO ADD NEW IMAGES IN THE web/menuimages/ FOLDER**",
-        "Files changed: PLEASEJUSTREADME.md, fxmanifest.lua, client/deliveries.lua, config/deliveries.lua, config/config.lua, config/translate.lua"
+        "Added missing items in deliveries",
+        "Added better support for QB huds",
+        "Files changed: fxmanifest.lua, config/deliveries.lua, config/crafting.lua, server/editableserver.lua"
     ]
 }
