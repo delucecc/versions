@@ -1,8 +1,6 @@
 {
-    "version": "1.1",
+    "version": "1.11",
     "changelog": [
-        "Added serving trays",
-        "Added missing item to readme",
-        "Files Changed: fxmanifest.lua, config/targets.lua, config/props.lua, PLEASEJUSTREADME.md"
+        "Added better support for QB consumables.  Replace server/editableserver.lua file."
     ]
 }
