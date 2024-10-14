@@ -1,9 +1,7 @@
 {
-    "version": "1.4.3",
+    "version": "1.4.4",
     "changelog": [
-        "Added ability to disable toggle duty",
-        "Added auto inventory image detection",
-        "Added more pre-configured notifications",
-        "Files Replaced: config/config.lua, client/targets.lua, fxmanifest.lua"
+        "Fixed animation timings not working properly when modified.",
+        "Files Replaced: server/server.lua, fxmanifest.lua"
     ]
 }
