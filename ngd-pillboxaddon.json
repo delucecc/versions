@@ -1,6 +1,6 @@
 {
-    "version": "1.11",
+    "version": "1.12",
     "changelog": [
-        "Added better support for QB consumables.  Replace server/editableserver.lua and fxmanifest.lua files."
+        "Fixed item list in readme.  Replace items and fxmanifest.lua file."
     ]
 }
