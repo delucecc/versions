@@ -1,6 +1,6 @@
 {
-    "version": "1.12",
+    "version": "1.13",
     "changelog": [
-        "Fixed item list in readme.  Replace items and fxmanifest.lua file."
+        "Fixed boss menu logic.  Added ability to limit boss menu to job grade.  Replace items and fxmanifest.lua, client/client.lua, client/editableclient.lua, config/config.lua files."
     ]
 }
