@@ -1,6 +1,8 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "changelog": [
-        "Made more modern"
+        "Fixed Crafting",
+        "Fixed Blip",
+        "Replace client/*lua & fxmanifest.lua"
     ]
 }
