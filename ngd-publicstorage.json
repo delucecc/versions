@@ -1,6 +1,7 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "changelog": [
-        "Inital Release."
+        "Fix being able to buy owned units with very specific config settings.",
+        "Files changed: client/client.lua, fxmanifest.lua"
     ]
 }
