@@ -1,6 +1,7 @@
 {
-    "version": "2.11",
+    "version": "2.12",
     "changelog": [
-        "New version checker, fixed money throwing, cleaned code."
+        "Cleaned up boss menu logic, added option for 'toggle duty' for the ESX peoples.",
+        "Files Changed: client/editableclient.lua, client/client.lua, config.lua, fxmanifest.lua"
     ]
 }
