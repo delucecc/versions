@@ -1,5 +1,5 @@
 {
-    "version": "1.22",
+    "version": "1.23",
     "changelog": [
         "Added missing boss menu option, refactored boss menu logic.",
         "Files changed: fxmanifest.lua, client/menus.lua, client/editableclient.lua"
