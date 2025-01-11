@@ -1,8 +1,7 @@
 {
-    "version": "1.21",
+    "version": "1.22",
     "changelog": [
-        "Added missing items in deliveries",
-        "Added better support for QB huds",
-        "Files changed: fxmanifest.lua, config/deliveries.lua, config/crafting.lua, server/editableserver.lua"
+        "Added missing boss menu option, refactored boss menu logic.",
+        "Files changed: fxmanifest.lua, client/menus.lua, client/editableclient.lua"
     ]
 }
