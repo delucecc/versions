@@ -1,7 +1,9 @@
 {
-    "version": "0.3.8",
+    "version": "0.3.8B",
     "changelog": [
-        "Uploaded Version File",
-        "Added new method for update logs"
+        "Added support and fixed the following:",
+        "Support for qb-inventory V2",
+        "New 'points' system",
+        "Fixed QS clear stash issues (related to ngd-pillboxaddon)"
     ]
 }
