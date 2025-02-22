@@ -1,0 +1,8 @@
+{
+    "version": "1.4",
+    "changelog": [
+        "Added new bridge",
+        "Optimized props",
+        "Fixed Duplicate Notifications"
+    ]
+}
