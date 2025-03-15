@@ -1,7 +1,7 @@
 {
-    "version": "1.41",
+    "version": "1.42",
     "changelog": [
-        "Modify boss menu logic.  Make blip come back when script is restarted live.",
-        "Files Changed: client/shared.lua, client/editableclient.lua, fxmanfiest.lua"
+        "Fix vehicle rental logic.  Fix stuck props for a select few people with issues",
+        "Files Changed: client/client.lua, client/vehrentals.lua, fxmanfiest.lua"
     ]
 }
