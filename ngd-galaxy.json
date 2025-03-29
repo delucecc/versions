@@ -1,7 +1,7 @@
 {
-    "version": "2.12",
+    "version": "2.13",
     "changelog": [
-        "Cleaned up boss menu logic, added option for 'toggle duty' for the ESX peoples.",
-        "Files Changed: client/editableclient.lua, client/client.lua, config.lua, fxmanifest.lua"
+        "Make seating keybind configurable",
+        "Files Changed: client/seating.lua, config.lua, fxmanifest.lua"
     ]
 }
