@@ -1,7 +1,7 @@
 {
-    "version": "1.4.4",
+    "version": "1.4.5",
     "changelog": [
-        "Fixed animation timings not working properly when modified.",
-        "Files Replaced: server/server.lua, fxmanifest.lua"
+        "Make seating stand button configurable.",
+        "Files Replaced: clieant/seating.lua, config.lua, fxmanifest.lua"
     ]
 }
