@@ -1,7 +1,7 @@
 {
-    "version": "1.3",
+    "version": "1.4",
     "changelog": [
-        "Added the ability to vend Johnny's THC Brew without the Fiv3Devs MLO.  This can be found at the bottom of the vending.lua config.",
-        "Files Changed: fxmanifest.lua, client/*.lua, server/vending.lua, config/vending.lua"
+        "Code cleanup, fixed missing items for crafting/deliveries, fixed esx status issues",
+        "Files Changed: all"
     ]
 }
