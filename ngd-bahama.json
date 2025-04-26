@@ -1,7 +1,7 @@
 {
-    "version": "3.13",
+    "version": "3.14",
     "changelog": [
-        "Added new version checker",
-        "Added toggle duty option"
+        "Fixed boss menu",
+        "Replace: client/targets.lua"
     ]
 }
