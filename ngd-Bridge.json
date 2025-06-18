@@ -1,9 +1,6 @@
 {
-    "version": "0.3.8A",
+    "version": "0.3.8B",
     "changelog": [
-        "Added support and fixed the following:",
-        "Support for qb-inventory V2",
-        "New 'points' system",
-        "Fixed QS clear stash issues (related to ngd-pillboxaddon)"
+        "Support for updated QS and Tgiann inventory.",
     ]
 }
