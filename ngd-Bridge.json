@@ -1,6 +1,7 @@
 {
-    "version": "0.3.8B",
+    "version": "0.3.8C",
     "changelog": [
-        "Support for updated QS and Tgiann inventory.",
+        "Added custom modules for code consolidation - Replace entire script.",
+        "If you need help open a ticket on our Discord - nemesisgd.com"
     ]
 }
