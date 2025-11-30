@@ -1,7 +1,6 @@
 {
-    "version": "1.2",
+    "version": "2.0",
     "changelog": [
-        "New bridge and optimizations",
-        ""
+        "Complete Re-write"
     ]
 }
