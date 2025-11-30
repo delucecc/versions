@@ -1,8 +1,7 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "changelog": [
-        "Added new bridge",
-        "Optimized props",
-        "Fixed Duplicate Notifications"
+        "Changed sound logic",
+        "Files replaced:  server/server.lua, client/client.lua"
     ]
 }
