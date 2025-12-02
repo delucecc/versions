@@ -1,7 +1,7 @@
 {
-    "version": "0.3.8C",
+    "version": "0.4",
     "changelog": [
-        "Added custom modules for code consolidation - Replace entire script.",
+        "Big changes - Replace entire script.  See the NGD Discord update log for more information.",
         "If you need help open a ticket on our Discord - nemesisgd.com"
     ]
 }
