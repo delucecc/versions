@@ -1,6 +1,6 @@
 {
-    "version": "1.13",
+    "version": "1.2",
     "changelog": [
-        "Fixed boss menu logic.  Added ability to limit boss menu to job grade.  Replace items and fxmanifest.lua, client/client.lua, client/editableclient.lua, config/config.lua files."
+        "New Bridge logic, prop optimization, ngd-ui integration.  Replace all files."
     ]
 }
