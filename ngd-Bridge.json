@@ -1,7 +1,7 @@
 {
-    "version": "0.4",
+    "version": "0.4.1",
     "changelog": [
-        "Big changes - Replace entire script.  See the NGD Discord update log for more information.",
+        "Added support for ngd-ui notifications.  Replace custom/client.lua",
         "If you need help open a ticket on our Discord - nemesisgd.com"
     ]
 }
