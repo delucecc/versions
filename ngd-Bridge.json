@@ -1,7 +1,7 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "changelog": [
-        "Added support for ngd-ui notifications.  Replace custom/client.lua",
+        "Fixed qs-banking support  Replace custom/server.lua",
         "If you need help open a ticket on our Discord - nemesisgd.com"
     ]
 }
