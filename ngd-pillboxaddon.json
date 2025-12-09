@@ -1,6 +1,7 @@
 {
-    "version": "1.2",
+    "version": "1.2.1",
     "changelog": [
-        "New Bridge logic, prop optimization, ngd-ui integration.  Replace all files."
+        "Fix logic for menus.  Replace all files in client/.*lua folder.",
+        "If you need help open a ticket on our Discord - nemesisgd.com"
     ]
 }
