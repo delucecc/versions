@@ -1,7 +1,8 @@
 {
-    "version": "2.32",
+    "version": "2.4",
     "changelog": [
-        "Changed blenders to boxzones",
-        "Fixed config discrepancies"
+        "Added ngd-ui support",
+        "Fixed ESX consumables",
+        "Added 3ddrawtext support"
     ]
 }
