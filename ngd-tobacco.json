@@ -1,7 +1,7 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "changelog": [
-        "Complete re-write, See NGD Discord update log.",
+        "Fixed duplicate store ped on duty toggle.  Replace client/targets.lua",
         "https://discord.gg/AnXx2GVGcM"
 
     ]
