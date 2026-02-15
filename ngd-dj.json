@@ -1,7 +1,6 @@
 {
-    "version": "1.5",
+    "version": "2.0",
     "changelog": [
-        "Added new version checker",
-        "Fixed people hearing music on playerload"
+        "Major update - Check NGD Discord: https://discord.gg/AnXx2GVGcM"
     ]
 }
