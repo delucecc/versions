@@ -1,7 +1,6 @@
 {
-    "version": "1.4",
+    "version": "2.0",
     "changelog": [
-        "Code cleanup, fixed missing items for crafting/deliveries, fixed esx status issues",
-        "Files Changed: all"
+        "Major overhaul.  Check the NGD Discord for more info: https://discord.gg/AnXx2GVGcM",
     ]
 }
