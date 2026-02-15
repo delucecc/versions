@@ -1,7 +1,7 @@
 {
-    "version": "0.4.2",
+    "version": "0.4.2A",
     "changelog": [
-        "Fixed qs-banking support  Replace custom/server.lua",
+        "Added high effects for blazed.  Replace custom/client.lua",
         "If you need help open a ticket on our Discord - nemesisgd.com"
     ]
 }
