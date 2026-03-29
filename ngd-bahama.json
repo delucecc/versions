@@ -1,7 +1,6 @@
 {
-    "version": "3.14",
+    "version": "3.2",
     "changelog": [
-        "Fixed boss menu",
-        "Replace: client/targets.lua"
+        "Major update - See Discord for more information."
     ]
 }
