@@ -1,7 +1,9 @@
 {
-    "version": "0.4.2A",
+    "version": "0.5.3",
     "changelog": [
-        "Added high effects for blazed.  Replace custom/client.lua",
-        "If you need help open a ticket on our Discord - nemesisgd.com"
+        "Added kartik-banking society support (auto-detected).",
+        "Fixed alcohol effect draining too fast / sobering up early on repeat drinks.",
+        "Fixed armor buffs not applying until respawn - now applies instantly.",
+        "Need help? Open a ticket on our Discord - nemesisgd.com"
     ]
 }
