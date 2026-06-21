@@ -1,6 +1,6 @@
 {
-    "version": "3.2",
+    "version": "3.3",
     "changelog": [
-        "Major update - See Discord for more information."
+        "Billing and boss menu now route through the bridge."
     ]
 }
