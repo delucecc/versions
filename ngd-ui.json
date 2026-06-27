@@ -1,0 +1,8 @@
+{
+    "version": "1.2",
+    "changelog": [
+        "Configurable dialog type speed (Config.DialogTypeSpeed; per-dialog typeSpeed override).",
+        "Dialog: empty/nil description guard and focus/cursor fixes.",
+        "Need help? Join the NGD Discord: https://discord.gg/AnXx2GVGcM"
+    ]
+}
