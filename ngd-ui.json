@@ -1,8 +1,7 @@
 {
-    "version": "1.2",
+    "version": "1.3",
     "changelog": [
-        "Configurable dialog type speed (Config.DialogTypeSpeed; per-dialog typeSpeed override).",
-        "Dialog: empty/nil description guard and focus/cursor fixes.",
+        "Added CloseDialog export to end an NPC dialog programmatically.",
         "Need help? Join the NGD Discord: https://discord.gg/AnXx2GVGcM"
     ]
 }
