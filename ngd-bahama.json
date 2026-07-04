@@ -1,6 +1,8 @@
 {
-    "version": "3.3",
+    "version": "3.4",
     "changelog": [
-        "Billing and boss menu now route through the bridge."
+        "Prop Optimizations",
+        "Modernization",
+        "Need help? Open a ticket on our Discord - nemesisgd.com"
     ]
 }
