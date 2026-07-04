@@ -1,7 +1,8 @@
 {
-    "version": "1.42",
+    "version": "2.0",
     "changelog": [
-        "Fix vehicle rental logic.  Fix stuck props for a select few people with issues",
-        "Files Changed: client/client.lua, client/vehrentals.lua, fxmanfiest.lua"
+        "Prop Optimizations",
+        "Modernization",
+        "Need help? Open a ticket on our Discord - nemesisgd.com"
     ]
 }
