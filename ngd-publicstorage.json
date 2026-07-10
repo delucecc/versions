@@ -1,1 +1,7 @@
-{"version":"2.0","changelog":["Modernization and security fixes along with admin control","Need help? Open a ticket on our Discord - nemesisgd.com"]}
+{
+  "version": "2.1",
+  "changelog": [
+    "ngd-publicstorage has been updated to V2.1 - full update log: https://store.nemesisgd.com/product/publicstorage#v2-1",
+    "Need help? Open a ticket on our Discord - nemesisgd.com"
+  ]
+}
