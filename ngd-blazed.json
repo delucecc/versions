@@ -1,6 +1,9 @@
 {
-    "version": "2.1",
-    "changelog": [
-        "Major overhaul.  Check the NGD Discord for more info: https://discord.gg/AnXx2GVGcM",
-    ]
+  "version": "2.11",
+  "changelog": [
+    "Fixed three delivery orders that requested items which did not exist, making those deliveries impossible to complete.",
+    "The install guide now lists the vape and job tablet items that were missing from it - if you installed before this update, re-copy the items list into your inventory: https://nemesisdocs.com/docs/ngd-blazed",
+    "Files changed: config/deliveries.lua",
+    "Need help? Open a ticket on our Discord - nemesisgd.com"
+  ]
 }
