@@ -1,6 +1,7 @@
 {
-    "version": "2.0",
-    "changelog": [
-        "UI Rebuild, animation+prop logic change.  Replace all."
-    ]
+  "version": "2.0.1",
+  "changelog": [
+    "ngd-notepad has been updated to V2.0.1 - full update log: https://store.nemesisgd.com/product/6514953#v2-0-1",
+    "Need help? Open a ticket on our Discord - nemesisgd.com"
+  ]
 }
