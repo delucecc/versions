@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
+  "version": "1.01",
   "changelog": [
-    "ngd-foraging V1.0 - Initial Release",
+    "ngd-foraging V1.01 - Fixed mushrooms sometimes reporting too far away to pick on hilly zones",
     "Need help? Open a ticket on our Discord - nemesisgd.com"
   ]
 }
