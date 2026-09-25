@@ -1,8 +1,7 @@
 {
-    "version": "2.1",
-    "changelog": [
-        "Fixed duplicate store ped on duty toggle.  Replace client/targets.lua",
-        "https://discord.gg/AnXx2GVGcM"
-
-    ]
+  "version": "2.2",
+  "changelog": [
+    "ngd-tobacco has been updated to V2.2 - full update log: https://store.nemesisgd.com/product/6038508#v2-2",
+    "Need help? Open a ticket on our Discord - nemesisgd.com"
+  ]
 }
