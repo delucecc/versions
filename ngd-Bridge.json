@@ -1,9 +1,12 @@
 {
-    "version": "0.5.3",
+    "version": "0.5.3A",
     "changelog": [
         "Added kartik-banking society support (auto-detected).",
         "Fixed alcohol effect draining too fast / sobering up early on repeat drinks.",
         "Fixed armor buffs not applying until respawn - now applies instantly.",
+        "Consumable armor now tracks live ped armor.",
+        "Added held weapon slot tracking for qb-inventory and ox_inventory.",
+        "Native ox_inventory stash registration with groups and labels.",
         "Need help? Open a ticket on our Discord - nemesisgd.com"
     ]
 }
